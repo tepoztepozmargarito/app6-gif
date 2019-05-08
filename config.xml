@@ -2,10 +2,10 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app5"
+id = "com.phonegap.app6"
 version = "1.0.0">
 
-<name> app5 advertencia del dispositivo </name>
+<name>app6</name>
 
 <description>
 aplicacion que realiza la vibracion y beep del dispositivo
